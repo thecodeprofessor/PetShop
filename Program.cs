@@ -2,7 +2,6 @@
 
 namespace PetShopApp
 {
-    // Pet class definition
     public class Pet
     {
         public string Name;
@@ -67,7 +66,6 @@ namespace PetShopApp
             }
         }
 
-        // Method to add a pet to the list
         public static void AddPet()
         {
             Console.WriteLine("\n\n----------------------------");
@@ -98,7 +96,6 @@ namespace PetShopApp
             Console.ReadLine();
         }
 
-        // Method to remove a pet from the list
         public static void RemovePet()
         {
             Console.WriteLine("\n\n----------------------------");
@@ -124,7 +121,6 @@ namespace PetShopApp
             Console.WriteLine("\nPress any key to return to the main menu...");
             Console.ReadLine();
         }
-
 
         public static void ListPets()
         {
