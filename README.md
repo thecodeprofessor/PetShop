@@ -50,11 +50,11 @@ The PetShop application is designed to manage a pet store's inventory by allowin
 - **Validation**: Refactor `AddPet()` to validate pet details. (Alyx)
 - **Confirmation**: Improve `RemovePet()` to display confirmation before deletion. (Fox)
 - **Twilio Setup**: Set up Twilio API and acquire necessary credentials. (Gordon)
-- **Search Name**: Implement search by pet name functionality. (Samus)
 
 ### In Progress (Currently Being Worked On)
 - **SMS Notifications**: Implement SMS notifications for pet updates. (Gordon)
 - **CSV Export**: Implement method to export pet records to CSV. (Fox)
+- **Search Name**: Implement search by pet name functionality. (Samus)
 
 ### In Review
 - **CSV Validation**: Validate and format CSV data output. (Alyx reviewing Fox's work)
